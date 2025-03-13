@@ -14,19 +14,19 @@ Shuffling Mechanism: Ensures random card distribution.
 
 Game Modes:
 
-Single-Player Mode: Player competes against a dealer.
+  Single-Player Mode: Player competes against a dealer.
 
-Two-Player Mode: Player competes against a computer opponent and a dealer.
+  Two-Player Mode: Player competes against a computer opponent and a dealer.
 
 Game Logic:
 
-Deals initial hands to players and dealer.
+  Deals initial hands to players and dealer.
 
-Allows players to hit (draw another card) or stand (keep their current hand).
+  Allows players to hit (draw another card) or stand (keep their current hand).
 
-Implements dealer rules (hits on 16 or below, stands on 17 or above).
+  Implements dealer rules (hits on 16 or below, stands on 17 or above).
 
-Determines game outcomes (win, lose, draw) based on Blackjack rules.
+  Determines game outcomes (win, lose, draw) based on Blackjack rules.
 
 Interactive Gameplay: Players input choices via the console.
 
