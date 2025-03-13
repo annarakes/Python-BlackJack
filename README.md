@@ -1,12 +1,12 @@
-#Blackjack Project
+# Blackjack Project
 
-##Author: Anna Rakes
+## Author: Anna Rakes
 
-###Overview
+### Overview
 
 This project is a Python implementation of the classic card game Blackjack, developed for a Computer Science 1 class. The game supports both single-player mode (against the dealer) and two-player mode (against a computer opponent and the dealer). Players can choose to hit or stand based on their hand value, with the goal of getting as close to 21 as possible without going over.
 
-###Features
+### Features
 
 Deck Creation: Generates a standard deck of 52 playing cards.
 
@@ -30,7 +30,7 @@ Determines game outcomes (win, lose, draw) based on Blackjack rules.
 
 Interactive Gameplay: Players input choices via the console.
 
-###How to Run
+### How to Run
 
 1. Install Python (if not already installed) – Download Python
 
@@ -48,7 +48,7 @@ python blackjack.py
 
 5. Follow the prompts to choose between a single-player or two-player game.
 
-###Code Structure
+### Code Structure
 
 CreateDeck(): Generates the deck as a list of dictionaries.
 
@@ -71,7 +71,7 @@ DetermineWinner(): Determines the final game outcome.
 Main Function: Asks the user to choose between single-player or two-player mode and starts the game.
 
 
-###License
+### License
 
 This project is for educational purposes and is open for modification and improvement.
 
