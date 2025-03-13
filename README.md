@@ -30,23 +30,6 @@ Determines game outcomes (win, lose, draw) based on Blackjack rules.
 
 Interactive Gameplay: Players input choices via the console.
 
-### How to Run
-
-1. Install Python (if not already installed) – Download Python
-
-2. Clone this repository:
-
-git clone https://github.com/yourusername/blackjack-project.git
-
-3. Navigate to the project directory:
-
-cd blackjack-project
-
-4. Run the game:
-
-python blackjack.py
-
-5. Follow the prompts to choose between a single-player or two-player game.
 
 ### Code Structure
 
