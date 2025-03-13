@@ -4,7 +4,7 @@
 
 ### Overview
 
-This project is a Python implementation of the classic card game Blackjack, developed for my Computer Science 1 class at Elon University. The game supports both single-player mode (against the dealer) and two-player mode (against a computer opponent and the dealer). Players can choose to hit or stand based on their hand value, with the goal of getting as close to 21 as possible without going over.
+This project is a Python implementation of the classic card game Blackjack, developed for Computer Science 1 class at Elon University by Anna Rakes. The game supports both single-player mode (against the dealer) and two-player mode (against a computer opponent and the dealer). Players can choose to hit or stand based on their hand value, with the goal of getting as close to 21 as possible without going over.
 
 ### Features
 
